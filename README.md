@@ -238,4 +238,4 @@ This repository serves as the official landing page for SlideShow. The software 
 **Get the most recent version of SlideShow today!**
 
 ---
-**Last updated:** 2026-09-12 13:58:26 UTC
+**Last updated:** 2026-09-12 16:59:44 UTC
